@@ -1,0 +1,23 @@
+Step 1 :
+Get Selenium in your Project:
+2ways to get it: 
+1.Maven
+2. Add the library by yourself!
+
+Where to get the library?
+https://jar-download.com/artifacts/org.seleniumhq.selenium/selenium-java/3.14.0/source-code
+
+Downloaded all the jars.
+
+Extract the jars to a particular folder (Rashi_Selenium)
+
+Step 2
+
+We need add all jars [aka libraries in your project]
+Right click on Project
+Go to Properties
+Go to Java Build Path
+Go to Libraries Tab
+Click External Jars
+Add all the Selenium Jars downloaded
+Click ok and you will see a referenced Libraries in your Project
