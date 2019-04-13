@@ -1,0 +1,34 @@
+/*
+ * <html>
+ * <head>
+ * </head>
+ * <body>
+ * <input class="gLFyf gsfi" maxlength="2048" name="q" type="text" jsaction="paste:puy29d" aria-autocomplete="both" aria-haspopup="false" autocapitalize="off" autocomplete="off" autocorrect="off" role="combobox" spellcheck="false" title="Search" value="" aria-label="Search">
+ * 
+ * 
+ *</body>
+ *</html>
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
+ 
+ <input class="gLFyf gsfi" maxlength="2048" name="q" type="text" jsaction="paste:puy29d" 
+aria-autocomplete="both" aria-haspopup="false" autocapitalize="off" autocomplete="off" 
+autocorrect="off" role="combobox" spellcheck="false" title="Search" 
+value="" aria-label="Search">
+
+input->Element
+class,maxLength,name,type.... aria-label = attributes of the element
+
+//input[@name="q"]
+// Anywhere on the page find the element
+input
+name:attribute@ 
+a value
+ 
