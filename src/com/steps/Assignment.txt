@@ -1,0 +1,5 @@
+Facebook Login Automation:
+3 Elements
+Email Textbox: id=email eg wd.findElement(By.id("email"));  sendKeys
+Password TextBox: id=pass	 wd.findElement(By.id("email"))	 sendKeys
+Login Button:xpath //input[@value="Log In"]  wd.findElement(By.xpath("")) click();

@@ -12,9 +12,12 @@ public class SendKeys {
 		WebDriver wd = new ChromeDriver();
 		// Open a particular URL:
 		wd.get("https://www.google.com"); // g
-		WebElement searchBox = wd.findElement(By.xpath("//input[@name=\"q\"]"));
+		WebElement searchBox = wd.findElement(By.xpath("//input[@name=\"q\"]")); // returns a webElement
 		searchBox.sendKeys("Test Automation Academy");
 		searchBox.sendKeys(Keys.ENTER);
+		wd.findElement(By.id("email"));
+		
+		//input[@value="Log In"]
 	}
 
 }
